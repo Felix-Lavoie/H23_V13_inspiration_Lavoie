@@ -8,7 +8,7 @@
 
 ## Tetrad, Coeus, Prometeus, Ichor
 
-[![](https://youtu.be/lfQ3TuOrMS4](https://youtu.be/lfQ3TuOrMS4).
+[![](http://img.youtube.com/vi/lfQ3TuOrMS4/0.jpg)](http://www.youtube.com/watch?v=lfQ3TuOrMS4).
 
 ### Ian Springs
 ### 2022
@@ -19,11 +19,10 @@ Modelisation de portrait hyperrealiste realiste 3d fait a partire de maya, pour 
 
 ### Type d'instalation: contemplative
 
-[![]([https://youtu.be/lfQ3TuOrMS4](https://youtube.com/shorts/iV5w1dKggm4)]([https://youtu.be/lfQ3TuOrMS4](https://youtube.com/shorts/iV5w1dKggm4)).
+[![](http://img.youtube.com/vi/lfQ3TuOrMS4/0.jpg)](http://www.youtube.com/watch?v=lfQ3TuOrMS4).
 
 ### Mise en espace: 
-[![](https://youtu.be/lfQ3TuOrMS4](https://youtu.be/lfQ3TuOrMS4).
-[![TEXTE QUE VOUS DÉSIREZ ICI](http://img.youtube.com/vi/lfQ3TuOrMS4.jpg)](http://www.youtube.com/watch?v=lfQ3TuOrMS4).
+[![](http://img.youtube.com/vi/lfQ3TuOrMS4/0.jpg)](http://www.youtube.com/watch?v=lfQ3TuOrMS4).
 
 Les ecran sont sur on fond noire dans un grande piece avec d'autres exposition et n'est as separer.
 
