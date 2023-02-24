@@ -9,3 +9,7 @@
 ## Tetrad
 
 [![](https://youtu.be/lfQ3TuOrMS4](https://youtu.be/lfQ3TuOrMS4).
+
+### Ian Springs
+### 2022
+![](media/good_size_pics/devant_aresenal.png)
