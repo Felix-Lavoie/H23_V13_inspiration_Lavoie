@@ -33,3 +33,64 @@ Ce projet demontre le combat que certaine jeune filles ont avec eux meme. https:
 - des fausse plantes sur le pillier centrale
 
 ### Luma Sol
+
+<img width="500px" src="./media/exloration/photo_exploration/LumaSol_velo.jpg">
+<img width="500px" src="./media/exloration/photo_exploration/LumaSol_lumiere_2.jpg">
+
+- Vélo stationnaire
+- Escaliers avec guirlande lumineuse
+- Haut-parleurs
+
+### Nexum
+
+<img width="500px" src="./media/exloration/photo_exploration/Nexum_vue_ensemble.jpg">
+
+- Haut-parleurs
+- chaise avec guirlande lumineuse
+
+### Echomarine 
+
+<img width="500px" src="./media/exloration/photo_exploration/echomarine_img.jpeg">
+
+- projecteur
+- ordianteur qui controle les animations
+
+### Zodie-Gal 
+
+aucune information disponible au moment de la visite
+
+## Les 3 cours incontournables pour réaliser ces projets
+
+- Programmation interactive
+- Audio
+- integration web
+
+## Technique que je n'ais pas trop compris
+
+### commment un capteur de mouvement fonctionnenet?
+
+<img width="500px" src="./media/exloration/photo_exploration/Edria_vue_pillier_proche.jpg">
+
+Le détecteur de mouvement est composé d'un capteur de mouvement infrarouge. Ce capteur peut analyser la chaleur produite par n'importe quel mammifère. La chaleur qui émane d'un individu produit des infrarouges. C'est grâce à ce rayonnement infrarouge que le capteur peut détecter la présence de personnes. Explication de Nexecur: https://www.nexecur.fr/detecteur-de-mouvement-infrarouge-comment-fonctionne#:~:text=Le%20détecteur%20de%20mouvement%20est,détecter%20la%20présence%20d%27intrus.
+
+## Classement des projets et attente pour le résultat final 
+
+### 1-EDRIA
+
+Je choisis ce projet en premier, car c'est celui qui a attirer le plus mon attentions et je crois que l'envergure de leur projet est très grande, et jai hate de voir le résultat final.
+
+### 2-Luma Sol
+
+Je choisit ce projet en deuxième, car j'aime bien l'idée du vélo qui allume les lumières dans l'arbre, et pourrat aussi charger un téléphone en même temps. Par exemple, je doute qu'ils seront cappable de tout faire dans les délais, car ils semble déjat dans le jut.
+
+### 3-Echomarine
+
+Je choisit ce projet en troisième, car j'aime bien l'immersion que ce projet tente a crée, mais je le trouve peut interactif, j'espère que dans le projet final l'équipe réusirat a crée une plus grande interaction.
+
+### 4-Nexum
+
+Je choisit ce projet en quatrième position, car j'ai de la difficulter a voire ou ce projet vat aboutire, et je le trouve moins impressionnant que les autres projet. Je mattend a que ce projet me surprand, et qu'il crée une plus grande interaction qu je pensent quelle vas crée.
+
+### Zodie-Gal 
+
+J'ais choisis ce projet en derniée, car je ne voit premièrement pas le rapport avec le theme mycelium et je n'as pas pu beaucoup le voir.
