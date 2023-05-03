@@ -51,6 +51,7 @@ Ce projet demontre le combat que certaine jeune filles ont avec eux meme. https:
 ### Echomarine 
 
 <img width="500px" src="./media/exloration/photo_exploration/echomarine_img.jpeg">
+(photo de Michaël Un Dupré)
 
 - projecteur
 - ordianteur qui controle les animations
