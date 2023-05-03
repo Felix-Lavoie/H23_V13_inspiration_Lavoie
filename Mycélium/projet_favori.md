@@ -24,6 +24,11 @@ exposition extérieur temporaire
 
 ## Description de l'oeuvre
 Un pillier centrale qui sillumine de façon differente celon ci des personne sont devant les quatre coté du pillier. Il y a aussi des pilier tout atours du pillier centrale qui font du son et de la lumière.
-<img src="./media/preferer/photo_Edria/photo_pillier_millieux.jpg">
+
+(photo pillier millieux)
+<img width="500px" src="./media/preferer/photo_Edria/photo_pillier_millieux.jpg">
+
+(photo pillier exterieur)
+<img width="500px" src="./media/preferer/photo_Edria/photo_pillier.jpg">
 
 ##
