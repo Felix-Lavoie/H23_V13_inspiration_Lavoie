@@ -1,9 +1,29 @@
-# EDRIA
-## Membres:
-Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, Jean-Christophe
-## Lien avec le theme mycelium:
-"Entre-Fungus est une installation interactive. Le but de cette installation est de mettre en contraste l'espace dans laquelle l'oeuvre se trouve, soit un espace conçu pour se retrouver entre amis, diner ou même étudier avant un examen, et les conditions météorologiques dans lesquelles l'oeuvre sera déployée, Soit les derniers mois de l'hiver, peu enclin à utiliser l'espace comme il a été pensé. Ce contraste est une métaphore qui relie notre projet au thème fédérateur, soit le biopunk. Dans cette métaphore, l'espace dans lequel notre projet sera déployé représente la nature, qui est elle-même l'espace dans lequel l'être humain a déployé son projet de société, et le climat est l'industrialisation, qui, froide et sans pitié, nous laisse avec un espace encombré de machine et dépourvue de vie. Notre oeuvre fait une deuxième allusion à l'industrialisation en incorporant des structures métalliques et artificiel dans l'espace. Ces structures sont recouvertes de fausses plantes, qui viennent également contraster avec le climat dans lequel l'oeuvre sera déployée, pour représenter le désir de l'humanité de cacher sa destruction de la nature. Finalement, l'oeuvre est parsemée de champignons lumineux représentant la fin de la boucle de l'industrialisation, puisque les champignons sont la dernière étape du cycle de la vie."
+# Mycelium (exploration)
+## Oeuvres
+- EDRIA (par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe)
+- Luma Sol (par Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson)
+- Nexum (par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers)
+- Echomarine (par Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel)
+- Zodie-Gal (par Abdanor Yara)
 
->https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
+## Lien avec le thème de Mycélium
+### EDRIA
+faire une demonstration de la fin de l'industrialisation et le retour a la nature.  https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
 
-media/exloration/EDRIA_vue_ensenble_1.png
+### Luma Sol
+Il est crucial pour les êtres humains de maintenir une connexion avec la nature, particulièrement compte tenu de l'urgence climatique actuelle. En pédalant, nous avons la capacité d'agir de manière positive sur l'environnement, ce qui souligne l'importance de prendre des mesures concrètes pour protéger notre planète.  https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
+
+### Nexum
+Ce parcours offre une expérience immersive qui favorise la connexion entre les êtres humains et la nature.  https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
+
+### Echomarine
+Sensibiliser les interacteurs aux conditions des animaux marin en dangers ou en vois de disparition. https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
+
+### Zodie-Gal
+Ce projet demontre le combat que certaine jeune filles ont avec eux meme. https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html
+
+## Installations des projets en cours
+###EDRIA
+
+<img width="500px" src="./media/exloration/photo_exploration/Edria_pillier_exterieur.jpg">
+<img width="500px" src="./media/exloration/photo_exploration/Edria_pillier_millieux_1.jpg">
