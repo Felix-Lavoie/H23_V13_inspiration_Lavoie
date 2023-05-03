@@ -23,7 +23,13 @@ Sensibiliser les interacteurs aux conditions des animaux marin en dangers ou en 
 Ce projet demontre le combat que certaine jeune filles ont avec eux meme. https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html
 
 ## Installations des projets en cours
-###EDRIA
+### EDRIA
 
 <img width="500px" src="./media/exloration/photo_exploration/Edria_pillier_exterieur.jpg">
 <img width="500px" src="./media/exloration/photo_exploration/Edria_pillier_millieux_1.jpg">
+
+- 4 trépied avec haut parleur et projecteur autour du pillier central.
+- un pillier central avec capteur de mouvement.
+- des fausse plantes sur le pillier centrale
+
+### Luma Sol
