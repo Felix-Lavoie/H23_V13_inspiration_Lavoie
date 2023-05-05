@@ -21,6 +21,7 @@ vidéo de la chaine Youtube du musée McCord Stuwart: www.youtube.com/watch?v=pg
 A la fin de l'expostion il y a une immance projecteur qui mettent en grand plans les clicher quis on été présenter tout au long de l'exposition. Ce projcteur est différent du premier projecteur rencontrer, car premièreme, il est imansément plus gros, mais la plupart des clicher quis sont présenter par le gros projecteur son animer ce qui apporte une nouvelle dimansion sur l'exposition.
 
 <img width="500px" src="./medias/photo_McCord/photo_pov_grande_projection.jpg">
+<img width="500px" src="./medias/photo_McCord/photo_vue_ensemble_grande_projection_3.jpg">
 
 ## Compsantes et techniques
 <img width="500px" src="./medias/photo_McCord/photo_grand_projecteur.jpg">
