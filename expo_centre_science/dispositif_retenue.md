@@ -41,3 +41,6 @@ Les visiteurs son présenter a une table vide et des plaquette sur le coté de c
 
 ## Ce qui m'a plu 
 J'ai beacoup aimer avoir la possibiliter de voir ce qui ce cachait derière le dispositif même si touts les visiteurs n'auront pas la même chance. J'ais aussi aimer le coter éducatif du dispositife et j'ais aussi aimer voir a qu'elle point le dispositif semble durable, car après pluseurs année le dispositif semble fonctionner sans aucun problème.
+
+## Ce que j'aurais fait différament
+Je n'aurait pas fait le plaquette en bois, car elle semble un peut cheap et lors de l'exposition elle semblait plutot maganer, jaurais donc plutot crée des plaquette en métal ou peut être d'un bois plus résistant.
