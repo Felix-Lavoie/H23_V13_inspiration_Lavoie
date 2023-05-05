@@ -69,7 +69,7 @@ Les visiteurs peuvent arriver sur place et se promener autour du pilluer princpa
 ## Ce qui m'a plu
 J'ai beacoup aimer le résulatat final, car l'équipe a réussit a délivrer sur ce qu'ils avait promis, jai aussi beacoup aimmer les fausse plante sur les pillier, car je trouve que sa les a rendue très beaux.
 
-## Ce que j'auras fat différament
+## Ce que j'aurais fait différament
 Je trouve que les protège fils créaient trop de contraste dut a leur couleur jaune, j'aurais donc essayer de trouver des cache fils différent ou essayer de trouver une autre façon de protégé les fils.
 
 lien ver l'eurs Github pour plus d'information: https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
