@@ -34,7 +34,7 @@ plusieur capteurs sont placer sous la table et dans les plaquette ce qui permet 
 ## Compsantes et techniques
 Plusieurs élément font en sorte que cette oeuvre puisse fonctioner comme un controleur des capteurs un long écran et des palquette munis de capteurs.
 
-<img width="500px" src="./medias/photo_centre_photo_composante.jpg">
+<img width="500px" src="./medias/photo_centre_science/photo_composante.jpg">
 
 ## Expérience vécue
 Les visiteurs son présenter a une table vide et des plaquette sur le coté de celle ci et il est demander d'eux de placer les plaquette en orde sur cette table, lorsqu'il réusisent a placer ces plaquette sur la table un cour text explicatif apparait.
